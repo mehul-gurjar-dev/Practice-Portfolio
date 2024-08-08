@@ -1,0 +1,65 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    
+  }
+  
+body {
+  background-color: antiquewhite;
+  
+
+}
+
+nav {
+  text-align: center;
+}
+
+#intro {
+  text-align: center;
+}
+
+  h1 {
+    position:relative;
+    top: 20px;
+    color: rgb(108, 5, 3);
+    text-shadow: 1px 1px 2px rgb(245, 7, 7);
+    text-align: center;
+  }
+  
+  .leftBox {
+    color:rgb(0, 33, 165);
+    max-width: 400px;
+  }
+
+  p, 
+  li {
+    font-size: 18px;
+    list-style-position: inside;
+
+  }
+  
+  
+  a {
+    text-decoration: underline;
+  }
+  
+  img {
+    width: 45%;
+  }
+
+  nav {
+    position:fixed;
+    top: 0px;
+    z-index: 1;
+    background-color: rgb(147, 146, 146);
+    width: 100%;
+    font-size: 20px;
+    margin: 0;
+    padding: 5px 20x;
+    word-spacing: 50px;
+  }
+
+  #artwork {
+    font-family: 'Pacifico', 'Dancing Script', serif;
+    font-size: 30px;
+    margin: 0;
+  }
